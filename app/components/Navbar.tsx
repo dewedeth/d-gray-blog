@@ -12,9 +12,9 @@ export default function Navbar() {
                     {/*<Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@DaveGrayTeachesCode">
                         <FaYoutube />
                     </Link>*/}
-                    {/*<Link className="text-white/90 hover:text-white" href="https://courses.davegray.codes/">
+                    <Link className="text-white/90 hover:text-white" href="/users">
                         <FaLaptop />
-                    </Link>*/}
+                    </Link>
                     <Link className="text-white/90 hover:text-white" href="https://github.com/dewedeth">
                         <FaGithub />
                     </Link>
